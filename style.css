@@ -1,0 +1,23 @@
+
+
+  body {
+    background-color: #fcfbe8;
+  }
+
+  hr{
+    border-style: none;
+    border-top:2px dotted red;
+    height: 2px;
+    width: 5%;
+  }
+
+  h1,h3 {
+    color: #66bfbf;
+  }
+
+
+.picture {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
